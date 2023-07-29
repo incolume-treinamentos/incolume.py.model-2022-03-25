@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "incolume-py-model20220325"
-version = "0.2.0a1"
+version = "0.2.0"
 description = ""
 authors = ["Britodfbr <britodfbr@gmail.com>"]
 readme = "README.md"
